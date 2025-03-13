@@ -32,17 +32,4 @@ A developer who focuses on web development.
   ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
 
 ## Statics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?zizardev&show_icons=true&theme=radical)
-
-## Контакты
-
-- [Telegram](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-
-- 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizardev&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizardev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizardev&show_icons=true&theme=shadow_green)
