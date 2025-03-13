@@ -3,11 +3,45 @@
 </div>
 
 ---
-# My knowledge
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=60px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=60px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=60px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=60px /> 
-          
+## About me
+A developer who focuses on web development.
 
-# Statistics 
+🌍 Language:
+- 🇺🇦(C1)
+- 🇬🇧 (A2)
+- 🇷🇺 (B1)
+
+🔧 Instrument:
+- **Language Programming:**  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Frameworks:**       
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+  ![Discord.js](https://img.shields.io/badge/Discord.js-F7DF1E?style=flat&logo=discord&logoColor=white)  ![Disnake](https://img.shields.io/badge/Disnake-4E9F3D?style=flat&logo=discord&logoColor=white)
+    
+- **Platforms:**  
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+- **Browser:**  
+  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white)  
+  ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
+
+## Statics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?zizardev&show_icons=true&theme=radical)
+
+## Контакты
+
+- [Telegram](https://www.linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+
+- 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizardev&show_icons=true&bg_color=00000000)
 
