@@ -9,7 +9,7 @@ A developer who focuses on web development.
 🌍 Language:
 - 🇺🇦(C1)
 - 🇬🇧 (A2)
-- 🇷🇺 (B1)
+- 🇷🇺 (A2-B1)
 
 🔧 Instrument:
 - **Language Programming:**  
