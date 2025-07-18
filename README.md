@@ -6,7 +6,7 @@
 ### About me
 I'm just a coder.
 ### Language
-UA (C1) ENG (A2) RU (B2)
+UA (C1) ENG (A2-B1)
 
 ### Programming Languages I Use  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
