@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/7tPgfRhM/images.jpg" width="1000px" height="500px" alt="Banner">
-</div>
+
 
 
 
